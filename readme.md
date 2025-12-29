@@ -40,9 +40,11 @@ Before you begin, ensure you have the following:
 Follow these steps carefully to ensure the locker works on your specific monitor.
 
 ### 1. Clone the Repository
-```bash
-git clone [https://github.com/yourusername/strinova-instalocker.git](https://github.com/yourusername/strinova-instalocker.git)
-cd strinova-instalocker
+
+"git clone [https://github.com/yourusername/strinova-instalocker.git](https://github.com/yourusername/strinova-instalocker.git)
+cd strinova-instalocker"
+
+
 
 2. Install Dependencies
 Bash
